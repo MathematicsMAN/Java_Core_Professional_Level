@@ -11,8 +11,4 @@ public class Fruit {
         return weight;
     }
 
-//    public <T> T getTypeOfFruit(){
-//        return (T) this.getClass();
-//    }
-
 }
