@@ -1,0 +1,1533 @@
+{
+  "instant" : {
+    "epochSecond" : 1614077676,
+    "nanoOfSecond" : 57190486
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ServerApp",
+  "message" : "Запуск сервера",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077679,
+    "nanoOfSecond" : 569638294
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "К БД MySQL подключение прошло успешно",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077679,
+    "nanoOfSecond" : 840415411
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Схема chat_users создана (если её не было)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077680,
+    "nanoOfSecond" : 65947014
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Отключение от БД",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077680,
+    "nanoOfSecond" : 67278242
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Сервис авторизации запущен",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077680,
+    "nanoOfSecond" : 69128683
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Ожидание подключения клиентов",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077740,
+    "nanoOfSecond" : 614445129
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Клиент подключился",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077740,
+    "nanoOfSecond" : 647586596
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Ожидание подключения клиентов",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077816,
+    "nanoOfSecond" : 962481215
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Чтение сообщение авторизации из потока ввода",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077816,
+    "nanoOfSecond" : 984252400
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Регистрация нового пользователя с логином ВКС",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077817,
+    "nanoOfSecond" : 40139121
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "К БД подключились (проверка существования логина)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077817,
+    "nanoOfSecond" : 523671098
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Отключение от БД",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077817,
+    "nanoOfSecond" : 526633253
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "WARN",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Пользователь с логином ВКС уже был зарегистрирован",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077830,
+    "nanoOfSecond" : 853909719
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Чтение сообщение авторизации из потока ввода",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077830,
+    "nanoOfSecond" : 855096433
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Регистрация нового пользователя с логином СВ",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077830,
+    "nanoOfSecond" : 863237102
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "К БД подключились (проверка существования логина)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077830,
+    "nanoOfSecond" : 874017925
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Отключение от БД",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077830,
+    "nanoOfSecond" : 881622011
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "К БД подключились (добавление нового пользователя)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077830,
+    "nanoOfSecond" : 952310384
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Пользователь с логином СВ добавлен",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077831,
+    "nanoOfSecond" : 81928595
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Отключение от БД",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077831,
+    "nanoOfSecond" : 85713479
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Отправка сообщения пользователю об успешной регистрации нового пользователя",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077831,
+    "nanoOfSecond" : 107064886
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077831,
+    "nanoOfSecond" : 108596657
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077831,
+    "nanoOfSecond" : 110403632
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка списка пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077831,
+    "nanoOfSecond" : 111625530
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Добавление пользователя в список online пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077857,
+    "nanoOfSecond" : 807111931
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Клиент подключился",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077857,
+    "nanoOfSecond" : 810478003
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Ожидание подключения клиентов",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077878,
+    "nanoOfSecond" : 908354755
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Чтение сообщение авторизации из потока ввода",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077878,
+    "nanoOfSecond" : 916447756
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "К БД подключились (получение ника по логину и паролю)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077878,
+    "nanoOfSecond" : 978028774
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "По логину ВКС и паролю ник получен",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077878,
+    "nanoOfSecond" : 979664654
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Отключение от БД",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077878,
+    "nanoOfSecond" : 981145519
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Проверка на то, что пользователь с ником Самолёт сейчас в сети",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077878,
+    "nanoOfSecond" : 983417284
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Пользователь с логином ВКС успешно авторизован",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077878,
+    "nanoOfSecond" : 984986634
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077878,
+    "nanoOfSecond" : 989734566
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077878,
+    "nanoOfSecond" : 991478794
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка списка пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077878,
+    "nanoOfSecond" : 992628140
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Добавление пользователя в список online пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077910,
+    "nanoOfSecond" : 232323628
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Клиент подключился",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077910,
+    "nanoOfSecond" : 253394341
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Ожидание подключения клиентов",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077926,
+    "nanoOfSecond" : 525555580
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Чтение сообщение авторизации из потока ввода",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077926,
+    "nanoOfSecond" : 641757217
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "К БД подключились (получение ника по логину и паролю)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077926,
+    "nanoOfSecond" : 731072716
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "По логину ВДВ и паролю ник не получен",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077926,
+    "nanoOfSecond" : 732676662
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Отключение от БД",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077926,
+    "nanoOfSecond" : 735972952
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Пользователь с логином ВДВ успешно авторизован",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077944,
+    "nanoOfSecond" : 611876577
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Чтение сообщение авторизации из потока ввода",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077944,
+    "nanoOfSecond" : 619214121
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "К БД подключились (получение ника по логину и паролю)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077944,
+    "nanoOfSecond" : 651813161
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "По логину СВ и паролю ник получен",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077944,
+    "nanoOfSecond" : 653108356
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Отключение от БД",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077944,
+    "nanoOfSecond" : 654053415
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Проверка на то, что пользователь с ником танк сейчас в сети",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077944,
+    "nanoOfSecond" : 654978090
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Проверка на то, что пользователь с ником танк сейчас в сети",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077944,
+    "nanoOfSecond" : 660887820
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Пользователь с логином СВ успешно авторизован",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077955,
+    "nanoOfSecond" : 104732737
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Чтение сообщение авторизации из потока ввода",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077955,
+    "nanoOfSecond" : 152922325
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "К БД подключились (получение ника по логину и паролю)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077955,
+    "nanoOfSecond" : 155296451
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "По логину ВДВ и паролю ник получен",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077955,
+    "nanoOfSecond" : 156720563
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Отключение от БД",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077955,
+    "nanoOfSecond" : 157672971
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Проверка на то, что пользователь с ником БТР сейчас в сети",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077955,
+    "nanoOfSecond" : 159446479
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Пользователь с логином ВДВ успешно авторизован",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077955,
+    "nanoOfSecond" : 160685235
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077955,
+    "nanoOfSecond" : 162886766
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077955,
+    "nanoOfSecond" : 166636311
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка списка пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077955,
+    "nanoOfSecond" : 167665961
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Добавление пользователя в список online пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077968,
+    "nanoOfSecond" : 427878015
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Чтение нового сообщения от пользователя: Message{nick='БТР', message='/n Три танкиста'}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077968,
+    "nanoOfSecond" : 430978493
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "WARN",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Неверный формат нового ника",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077978,
+    "nanoOfSecond" : 309053099
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Чтение нового сообщения от пользователя: Message{nick='БТР', message='/n Три_танкиста'}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077978,
+    "nanoOfSecond" : 316834904
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "К БД подключились (изменение ника пользователя)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077978,
+    "nanoOfSecond" : 623487010
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Пользователь под логином ВДВ изменил ник на Три_танкиста",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077978,
+    "nanoOfSecond" : 625168469
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.BaseAuthService",
+  "message" : "Отключение от БД",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077978,
+    "nanoOfSecond" : 642222336
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Отправка личного сообщения от Три_танкиста, кому Три_танкиста: /n Три_танкиста",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077978,
+    "nanoOfSecond" : 645865220
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Ник пользователя БТР изменился на Три_танкиста",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077978,
+    "nanoOfSecond" : 647769236
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077978,
+    "nanoOfSecond" : 651641176
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077978,
+    "nanoOfSecond" : 658927245
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка списка пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077998,
+    "nanoOfSecond" : 305862465
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Чтение нового сообщения от пользователя: Message{nick='Три_танкиста', message='/w танк Привет, друг!'}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614077998,
+    "nanoOfSecond" : 309445404
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Отправка личного сообщения от Три_танкиста, кому танк: Привет, друг! ",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078010,
+    "nanoOfSecond" : 393167478
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Чтение нового сообщения от пользователя: Message{nick='танк', message='/w Три_танкиста Привет, Ребята!!!'}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078010,
+    "nanoOfSecond" : 396320258
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Отправка личного сообщения от танк, кому Три_танкиста: Привет, Ребята!!! ",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078014,
+    "nanoOfSecond" : 633757991
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "ERROR",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Ошибка чтения новых сообщений из потока",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "name" : "java.io.EOFException",
+    "extendedStackTrace" : [ {
+      "class" : "java.io.DataInputStream",
+      "method" : "readUnsignedShort",
+      "file" : "DataInputStream.java",
+      "line" : 344,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.io.DataInputStream",
+      "method" : "readUTF",
+      "file" : "DataInputStream.java",
+      "line" : 593,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.io.DataInputStream",
+      "method" : "readUTF",
+      "file" : "DataInputStream.java",
+      "line" : 568,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+      "method" : "readMessages",
+      "file" : "ClientHandler.java",
+      "line" : 128,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "class" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+      "method" : "lambda$new$0",
+      "file" : "ClientHandler.java",
+      "line" : 35,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "class" : "java.lang.Thread",
+      "method" : "run",
+      "file" : "Thread.java",
+      "line" : 832,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.util.concurrent.ThreadPoolExecutor",
+      "method" : "runWorker",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 1130,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.util.concurrent.ThreadPoolExecutor$Worker",
+      "method" : "run",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 630,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.lang.Thread",
+      "method" : "run",
+      "file" : "Thread.java",
+      "line" : 832,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078015,
+    "nanoOfSecond" : 248743871
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078015,
+    "nanoOfSecond" : 251549176
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка списка пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078015,
+    "nanoOfSecond" : 253288074
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Удаление пользователя из списка online пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078015,
+    "nanoOfSecond" : 254808060
+  },
+  "thread" : "pool-4-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 23,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078025,
+    "nanoOfSecond" : 371284093
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "ERROR",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Ошибка чтения новых сообщений из потока",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "name" : "java.io.EOFException",
+    "extendedStackTrace" : [ {
+      "class" : "java.io.DataInputStream",
+      "method" : "readUnsignedShort",
+      "file" : "DataInputStream.java",
+      "line" : 344,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.io.DataInputStream",
+      "method" : "readUTF",
+      "file" : "DataInputStream.java",
+      "line" : 593,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.io.DataInputStream",
+      "method" : "readUTF",
+      "file" : "DataInputStream.java",
+      "line" : 568,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+      "method" : "readMessages",
+      "file" : "ClientHandler.java",
+      "line" : 128,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "class" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+      "method" : "lambda$new$0",
+      "file" : "ClientHandler.java",
+      "line" : 35,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "class" : "java.lang.Thread",
+      "method" : "run",
+      "file" : "Thread.java",
+      "line" : 832,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.util.concurrent.ThreadPoolExecutor",
+      "method" : "runWorker",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 1130,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.util.concurrent.ThreadPoolExecutor$Worker",
+      "method" : "run",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 630,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.lang.Thread",
+      "method" : "run",
+      "file" : "Thread.java",
+      "line" : 832,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078025,
+    "nanoOfSecond" : 382341527
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078025,
+    "nanoOfSecond" : 385218023
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка списка пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078025,
+    "nanoOfSecond" : 387167670
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Удаление пользователя из списка online пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078025,
+    "nanoOfSecond" : 388188707
+  },
+  "thread" : "pool-3-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 21,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078048,
+    "nanoOfSecond" : 82239488
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Чтение нового сообщения от пользователя: Message{nick='танк', message='Меня оставили'}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078048,
+    "nanoOfSecond" : 83891578
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078055,
+    "nanoOfSecond" : 19207040
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "ERROR",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+  "message" : "Ошибка чтения новых сообщений из потока",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "name" : "java.io.EOFException",
+    "extendedStackTrace" : [ {
+      "class" : "java.io.DataInputStream",
+      "method" : "readUnsignedShort",
+      "file" : "DataInputStream.java",
+      "line" : 344,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.io.DataInputStream",
+      "method" : "readUTF",
+      "file" : "DataInputStream.java",
+      "line" : 593,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.io.DataInputStream",
+      "method" : "readUTF",
+      "file" : "DataInputStream.java",
+      "line" : 568,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+      "method" : "readMessages",
+      "file" : "ClientHandler.java",
+      "line" : 128,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "class" : "ru.GeekBrains.Lesson6HomeWork.server.ClientHandler",
+      "method" : "lambda$new$0",
+      "file" : "ClientHandler.java",
+      "line" : 35,
+      "exact" : false,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "class" : "java.lang.Thread",
+      "method" : "run",
+      "file" : "Thread.java",
+      "line" : 832,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.util.concurrent.ThreadPoolExecutor",
+      "method" : "runWorker",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 1130,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.util.concurrent.ThreadPoolExecutor$Worker",
+      "method" : "run",
+      "file" : "ThreadPoolExecutor.java",
+      "line" : 630,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.lang.Thread",
+      "method" : "run",
+      "file" : "Thread.java",
+      "line" : 832,
+      "exact" : true,
+      "location" : "?",
+      "version" : "?"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078055,
+    "nanoOfSecond" : 24326570
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078055,
+    "nanoOfSecond" : 25799640
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка списка пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078055,
+    "nanoOfSecond" : 27044827
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Удаление пользователя из списка online пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
+{
+  "instant" : {
+    "epochSecond" : 1614078055,
+    "nanoOfSecond" : 28386200
+  },
+  "thread" : "pool-2-thread-1",
+  "level" : "INFO",
+  "loggerName" : "ru.GeekBrains.Lesson6HomeWork.server.MyServer",
+  "message" : "Рассылка всем подключенным пользователям обновленный список пользователей",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 19,
+  "threadPriority" : 5
+}
